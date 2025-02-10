@@ -39,7 +39,9 @@ The automation scripts are written in **Java (Selenium)**. Below is the breakdow
 
 #### Invalid Input in Other Fields
 - **[TC_02_10_InValidCreditCardNo.java](Automation/TC_02_10_InValidCreditCardNo.java)** – Invalid credit card number.  
-- **[TC_02_11_InValidTelephoneNo.java](Automation/TC_02_11_InValidTelephoneNo.java)** – Invalid telephone number.  
+- **[TC_02_11_InValidTelephoneNo.java](Automation/TC_02_11_InValidTelephoneNo.java)** – Invalid telephone number.
+
+#### Empty Form
 - **[TC_03_01_InValidInput_EmptyField.java](Automation/TC_03_01_InValidInput_EmptyField.java)** – Empty form submission.  
 
 ## ⚙️ How to Run the Tests
