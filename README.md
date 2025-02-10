@@ -59,4 +59,5 @@ The automation scripts are written in **Java (Selenium)**. Below is the breakdow
 
 ## 📧 Contact
 
-For any queries, feel free to reach out.
+For any queries, feel free to reach out.  
+khanalswastika229@gmail.com
