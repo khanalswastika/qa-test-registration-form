@@ -22,7 +22,7 @@ The test cases cover different scenarios for form validation:
 The automation scripts are written in **Java (Selenium)**. Below is the breakdown of test scenarios:
 
 #### Valid Input
-- **[TC_01_01_ValidInput.java](automation/TC_01_01_ValidInput.java)** – Tests successful registration.
+- **[TC_01_01_ValidInput.java](Automation/TC_01_01_ValidInput.java)** – Tests successful registration.
 
 #### Invalid Username
 - **[TC_02_01_InvalidUsername_lessThanFiveChars.java](Automation/TC_02_01_InvalidUsername_lessThanFiveChars.java)** – Less than 5 characters.  
